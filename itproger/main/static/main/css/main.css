@@ -10,6 +10,7 @@ aside {
     height: 100vh;
     color: #0e1212;
     border-right: 5px solid #101212;
+
 }
 
 aside img {
@@ -63,4 +64,10 @@ main .features p {max-width: 400px; margin: 20px auto}
     width: 600px;
     margin: 30px 36%;
     text-align: left;
+}
+
+form {
+    margin-left: 32%;
+    width: 500px;
+    margin-top: 50px;
 }
